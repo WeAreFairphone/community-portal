@@ -3,6 +3,8 @@
 A [Jekyll](http://jekyllrb.com/)-based static site for informing about
 [WeAreFairphone community](https://www.fairphone.com/en/community/) activities.
 
+Features are discussed [on the Fairphone forum thread](https://forum.fairphone.com/t/online-portal-for-fairphone-community/28956/).
+
 ## Installation
 
 First, make sure, you have
@@ -32,9 +34,12 @@ Run `bundle exec jekyll serve` to start a development server and visit
 * [ ] Think about recommending [rvm](https://rvm.io/) in installation instructions.
 * [ ] Explore [discourse_api](https://github.com/discourse/discourse_api). (See [forum post](https://meta.discourse.org/t/discourse-plugin-for-static-site-generators-like-jekyll-or-octopress/7965))
 * [ ] Think about [publishing on GitHub Pages](https://help.github.com/articles/about-supported-custom-domains/).
+      According to docs there is [a whitelist of plugins](https://help.github.com/articles/configuring-jekyll-plugins/#default-plugins) which could make this approach hard.
 * [ ] Add a FavIcon to the [root directory](https://jekyllrb.com/docs/structure/).
 * [ ] Pull data for [community events](https://www.fairphone.com/en/community/events/?event-category=community-event) from the page.
 * [ ] Embed [communitymap](https://forum.fairphone.com/tags/communitymap)
+* [ ] Align with [duke1102/FairphoneAngel-LandingPage](https://github.com/duke1102/FairphoneAngel-LandingPage) about design.
+* [ ] Get inspiration from [mozilla/activate.mozilla.community](https://github.com/mozilla/activate.mozilla.community) or [learning.mozilla.org](https://learning.mozilla.org/).
 
 ## License
 
