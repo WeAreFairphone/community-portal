@@ -1,0 +1,12 @@
+page:
+  title: "WeAreFairphone"
+
+pages:
+  about:
+    title: "About"
+  angels:
+    title: "Fairphone Angels"
+  event-materials:
+    title: "Community event materials"
+  installation:
+    title: "Installation"

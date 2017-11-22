@@ -1,7 +1,7 @@
 ---
-layout: default
-title:  Community event materials
+layout: page
+title:  pages.event-materials.title
+permalink: /event-materials/
 ---
-Here you can find information about getting material for community events:
 
-[Community event materials](https://forum.fairphone.com/t/community-event-materials/26151)
+{% translate_file event-materials.md %}
