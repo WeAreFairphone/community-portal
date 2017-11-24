@@ -27,7 +27,9 @@ For pages, just create [Markdown files in the root directory](https://jekyllrb.c
 ## Development
 
 Run `bundle exec jekyll serve` to start a development server and visit
-[localhost:4000](http://localhost:4000/).
+[localhost:4000](http://localhost:4000/).  
+
+Note: If you try running this on a Windows machine you might encounter problems with the character encoding. To solve this, simply execute `chcp 65001` in your current PowerShell window.
 
 ## TODO
 
