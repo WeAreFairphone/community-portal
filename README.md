@@ -37,7 +37,6 @@ Note: If you try running this on a Windows machine you might encounter problems 
 * [ ] Explore [discourse_api](https://github.com/discourse/discourse_api). (See [forum post](https://meta.discourse.org/t/discourse-plugin-for-static-site-generators-like-jekyll-or-octopress/7965))
 * [ ] Think about [publishing on GitHub Pages](https://help.github.com/articles/about-supported-custom-domains/).
       According to docs there is [a whitelist of plugins](https://help.github.com/articles/configuring-jekyll-plugins/#default-plugins) which could make this approach hard.
-* [ ] Add a FavIcon to the [root directory](https://jekyllrb.com/docs/structure/).
 * [ ] Pull data for [community events](https://www.fairphone.com/en/community/events/?event-category=community-event) from the page.
 * [ ] Embed [communitymap](https://forum.fairphone.com/tags/communitymap)
 * [ ] Align with [duke1102/FairphoneAngel-LandingPage](https://github.com/duke1102/FairphoneAngel-LandingPage) about design.
