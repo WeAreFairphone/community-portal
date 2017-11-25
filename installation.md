@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title:  pages.installation.title
 permalink: /installation/
 ---

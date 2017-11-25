@@ -1,0 +1,21 @@
+---
+---
+.page-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin-left: 0;
+
+  &-item {
+    border: 1px solid lightgray;
+    border-radius: 2%;
+    box-sizing: border-box;
+    flex: 1 0 45%;
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+
+  .page-content {
+    padding-bottom: 0;
+  }
+}
