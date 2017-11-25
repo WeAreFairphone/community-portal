@@ -26,8 +26,9 @@ github_username:  WeAreFairphone
 
 # Plugin settings
 ## jekyll-multiple-languages-plugin
+default_language: "en"  # By convention, this must be the first item of language
 languages: ["en", "de"]
-# exclude_from_localizations: ["javascript", "images", "css"]  # Currently unused
+exclude_from_localizations: ["css"]
 
 # Build settings
 markdown: kramdown

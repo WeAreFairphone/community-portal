@@ -1,0 +1,18 @@
+<ul class="language-switcher">
+  {% for lang in site.languages %}
+    {% if site.lang != lang %}
+      <li class="language-switcher-item">
+        {% if lang == site.default_language %}
+          <a href="{{ site.baseurl_root }}{{ page.url }}"
+             class="language-link">
+        {% else %}
+          <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}"
+             class="language-link">
+        {% endif %}
+            {% capture language %}page.language.{{ lang }}{% endcapture %}
+            {% translate language %}
+          </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

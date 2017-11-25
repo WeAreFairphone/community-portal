@@ -1,5 +1,8 @@
 page:
   heading: "Welcome to "
+  language:
+    de: "German"
+    en: "English"
   title: "WeAreFairphone"
 
 pages:
