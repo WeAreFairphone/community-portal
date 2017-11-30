@@ -24,6 +24,15 @@ You can write drafts in [_drafts](./_drafts), which won't get published.
 
 For pages, just create [Markdown files in the root directory](https://jekyllrb.com/docs/pages/).
 
+### Linking forum articles
+
+Every page has the option to name one further reading forum post.
+Therefore it needs a `further_reading` in its Preface.
+The corresponding value can be found in `jekyll_get` section of
+[_config.yml](./_config.yml).
+This in turn will download the forum post (in JSON format) and store it
+[_data](./_data) under the key given in `further_reading`.
+
 ## Development
 
 Run `bundle exec jekyll serve` to start a development server and visit

@@ -11,4 +11,24 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.further_reading %}
+    <div class="supplemental-teaser">
+      {% translate global.further_reading %}:
+
+      {% assign feed_key = site.data[page.further_reading] %}
+      {% assign first_post = feed_key.post_stream.posts[0] %}
+      <blockquote>
+        {{ first_post.cooked }}
+      </blockquote>
+      &ndash;
+      {% for links in site.jekyll_get %}
+        {% if links.data == page.further_reading %}
+          {% assign forum_link = links.json %}
+          <a href="{{ forum_link }}" target="_blank">
+            {% translate global.source %}
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endif %}
 </article>

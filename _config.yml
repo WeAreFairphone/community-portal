@@ -31,6 +31,9 @@ languages: ["en", "de"]
 exclude_from_localizations: ["css"]
 
 jekyll_get:
+  - data: angels
+    cache: true
+    json: "https://forum.fairphone.com/t/local-technical-support-by-community-members-mailing-lists-project-description/26193/5.json"
   - data: event
     cache: true
     json: "https://forum.fairphone.com/t/star-save-the-date-european-fairphoners-community-trip-to-amsterdam-2018-13-8-19-8-2018/32940.json"

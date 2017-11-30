@@ -4,6 +4,7 @@ global:
   language:
     de: "Deutsch"
     en: "Englisch"
+  source: "Quelle"
 
 pages:
   about:

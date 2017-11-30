@@ -21,3 +21,7 @@ Session.vim
 tags
 
 # End of https://www.gitignore.io/api/vim,jekyll
+
+# For now, don't check in fetched forum posts stored in _data
+_data/
+!_data/.gitkeep
