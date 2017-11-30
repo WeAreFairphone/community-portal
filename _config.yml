@@ -30,12 +30,18 @@ default_language: "en"  # By convention, this must be the first item of language
 languages: ["en", "de"]
 exclude_from_localizations: ["css"]
 
+jekyll_get:
+  - data: event
+    cache: true
+    json: "https://forum.fairphone.com/t/star-save-the-date-european-fairphoners-community-trip-to-amsterdam-2018-13-8-19-8-2018/32940.json"
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
