@@ -40,6 +40,15 @@ Run `bundle exec jekyll serve` to start a development server and visit
 
 Note: If you try running this on a Windows machine you might encounter problems with the character encoding. To solve this, simply execute `chcp 65001` in your current PowerShell window.
 
+### Tweaking templates
+
+Since we use [minima](https://github.com/jekyll/minima) (as can be seen in
+[_config.yml](./config.yml) key `theme`), we can download files from that
+theme, drop them in the same place and start modifying them.
+
+The idea could be to publish an own theme, once there is a stable version.
+This would likely move into its own repo and added as dependency here.
+
 ## TODO
 
 * [ ] Think about recommending [rvm](https://rvm.io/) in installation instructions.
