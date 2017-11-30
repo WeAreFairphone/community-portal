@@ -1,9 +1,9 @@
-page:
+global:
+  further_reading: "Weiterlesen"
   heading: "Willkommen auf "
   language:
     de: "Deutsch"
     en: "Englisch"
-  title: "WeAreFairphone"
 
 pages:
   about:

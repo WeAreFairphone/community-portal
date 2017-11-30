@@ -9,7 +9,7 @@
           <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}"
              class="language-link">
         {% endif %}
-            {% capture language %}page.language.{{ lang }}{% endcapture %}
+            {% capture language %}global.language.{{ lang }}{% endcapture %}
             {% translate language %}
           </a>
       </li>
