@@ -59,6 +59,8 @@ This would likely move into its own repo and added as dependency here.
 * [ ] Embed [communitymap](https://forum.fairphone.com/tags/communitymap)
 * [ ] Align with [duke1102/FairphoneAngel-LandingPage](https://github.com/duke1102/FairphoneAngel-LandingPage) about design.
 * [ ] Get inspiration from [mozilla/activate.mozilla.community](https://github.com/mozilla/activate.mozilla.community) or [learning.mozilla.org](https://learning.mozilla.org/).
+* [ ] Investigate nested file structure (see [Sitemap](http://localhost:4000/sitemap/))
+* [ ] Think about how best to lay out navigation (breadcrumbs? See [Brad Frost](http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/))
 
 ## License
 

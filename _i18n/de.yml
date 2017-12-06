@@ -4,6 +4,7 @@ global:
   language:
     de: "Deutsch"
     en: "Englisch"
+  sitemap: "Inhaltsverzeichnis"
   source: "Quelle"
 
 pages:

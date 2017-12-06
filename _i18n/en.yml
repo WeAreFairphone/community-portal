@@ -4,6 +4,7 @@ global:
   language:
     de: "German"
     en: "English"
+  sitemap: "Sitemap"
   source: "Source"
 
 pages:
