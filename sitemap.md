@@ -7,21 +7,21 @@ This is the planned site structure:
 * Online discussions
   * Chat (IRC/Matrix)
   * Forum
-* Angels
+* [Angels](./angels.html)
 * Software
-  * OSes
+  * [OSes](./software/installation.html)
   * APKs
   * Other tips
 * Hardware
   * Repairshops
   * Hardware hacks
-* Synapse (maybe)
+* [Synapse](./synapse.html)
 * Community Events
   * Local events
-  * Useful ressources
+  * [Useful ressources](./community-events/event-materials.html)
   * Guide / HowTo / Tips
   * EFCT18
 * Contribute
-  * Community Maps
+  * [Community Maps](./contribute/community-maps.html)
   * Portal
   * GitHub WeAreFairphone

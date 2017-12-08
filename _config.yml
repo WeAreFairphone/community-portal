@@ -38,6 +38,10 @@ jekyll_get:
     cache: true
     json: "https://forum.fairphone.com/t/star-save-the-date-european-fairphoners-community-trip-to-amsterdam-2018-13-8-19-8-2018/32940.json"
 
+  - data: synapse
+    cache: true
+    json: "https://forum.fairphone.com/t/synapse-inspired-by-fairphone-movement/31607.json"
+
 # Build settings
 markdown: kramdown
 theme: minima

@@ -1,5 +1,10 @@
 <header class="site-header" role="banner">
+  {{ site.title }}
   <div class="wrapper">
     {% include language_switcher.html %}
+  </div>
+  <div>
+    <!-- TODO: Respect language -->
+    <a href="/sitemap.html">{% t global.sitemap %}</a>
   </div>
 </header>

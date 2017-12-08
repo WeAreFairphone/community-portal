@@ -12,7 +12,11 @@ pages:
     title: "Über WeAreFairphone"
   angels:
     title: "Fairphone Angels"
+  community-maps:
+    title: "Community Karten"
   event-materials:
     title: "Event-Material für Community"
   installation:
     title: "Installation"
+  synapse:
+    title: "Synapse"

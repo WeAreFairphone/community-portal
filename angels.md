@@ -1,7 +1,6 @@
 ---
 layout: page
 title: pages.angels.title
-permalink: /angels/
 further_reading: angels
 ---
 

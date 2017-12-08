@@ -12,7 +12,11 @@ pages:
     title: "About"
   angels:
     title: "Fairphone Angels"
+  community-maps:
+    title: "Community Maps"
   event-materials:
     title: "Community event materials"
   installation:
     title: "Installation"
+  synapse:
+    title: "Synapse"
