@@ -58,6 +58,7 @@ This would likely move into its own repo and added as dependency here.
 * [ ] Pull data for [community events](https://www.fairphone.com/en/community/events/?event-category=community-event) from the page.
 * [ ] Embed [communitymap](https://forum.fairphone.com/tags/communitymap)
 * [ ] Align with [duke1102/FairphoneAngel-LandingPage](https://github.com/duke1102/FairphoneAngel-LandingPage) about design.
+* [ ] Look into [WeAreFairphone/Community_identity](https://github.com/WeAreFairphone/Community_identity) for design.
 * [ ] Get inspiration from [mozilla/activate.mozilla.community](https://github.com/mozilla/activate.mozilla.community) or [learning.mozilla.org](https://learning.mozilla.org/).
 * [ ] Investigate nested file structure (see [Sitemap](http://localhost:4000/sitemap/))
 * [ ] Think about how best to lay out navigation (breadcrumbs? See [Brad Frost](http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/))
