@@ -1,5 +1,15 @@
 ---
 ---
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('Roboto-Regular.ttf')  format('truetype')
+}
+
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url('Roboto-Bold.ttf')  format('truetype')
+}
+
 a {
   color: #f8a41e;
 }
@@ -10,6 +20,7 @@ main {
 
 .site-header {
   background-color: #2ca7df;
+  font-family: 'Roboto-Regular', sans-serif;
 }
 
 .language-switcher {
