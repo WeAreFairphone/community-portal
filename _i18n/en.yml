@@ -11,12 +11,32 @@ pages:
   about:
     title: "About"
   angels:
-    title: "Fairphone Angels"
-  community-maps:
-    title: "Community Maps"
+    title: "The Angels Program"
+  contribute:
+    title: "Contribute"
+  design:
+    title: "Design Guidelines"
+  events:
+    title: "Community Events"
+  local-events:
+    title: "Local Meetups and Events"
   event-materials:
-    title: "Community event materials"
-  installation:
-    title: "Installation"
+    title: "Useful Event Materials"
+  event-guide:
+    title: "Fairphone Meetup Guide"
+  efct:
+    title: "European Fairphoners Community Meetup"
+  hardware:
+    title: "DIY & Repair"
+  online:
+    title: "Online Communities"
+  software:
+    title: "Custom Roms & other Software"
+  custom-roms:
+    title: "Custom Roms"
+  flashable-zips:
+    title: "Flashable ZIPs"
+  apks:
+    title: "Community Apps"
   synapse:
     title: "Synapse"
