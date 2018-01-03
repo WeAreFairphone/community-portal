@@ -31,4 +31,23 @@ layout: default
       {% endfor %}
     </div>
   {% endif %}
+
+  {% if page.subpages %}
+    <ul class="page-list">
+      {% for pageobj in site.pages %}
+        {% if page.subpages contains pageobj.path %}
+          <li class="page-list-item">
+            <h2>
+              <a class="page-link" href="{{ page.url | relative_url }}">
+                {% translate pageobj.title %}
+              </a>
+            </h2>
+            <div class="page-content">
+              {{ pageobj.content }}
+            </div>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
 </article>
