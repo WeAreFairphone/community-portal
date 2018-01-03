@@ -8,10 +8,12 @@ Features are discussed [on the Fairphone forum thread](https://forum.fairphone.c
 ## Installation
 
 First, make sure, you have
-[Ruby](https://www.ruby-lang.org/en/documentation/installation/) and
+[Ruby](https://www.ruby-lang.org/en/documentation/installation/)\* and
 [bundler](https://bundler.io/) installed.
 
 Then run `bundle install` and you are ready to start.
+
+\* *Ruby 2.5 does not work.*
 
 ## Usage
 
