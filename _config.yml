@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: We Are Fairphone
+title: Fairphone Community Portal
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Fairphone Community Portal aims to gather all the awesome activity of the
+  Fairphone Community in one place. To learn more about the company Fairphone
+  and the world's first ethical smartphone, visit https://fairphone.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: WeAreFairphone
@@ -33,7 +33,7 @@ exclude_from_localizations: ["css"]
 jekyll_get:
   - data: angels
     cache: true
-    json: "https://forum.fairphone.com/t/local-technical-support-by-community-members-mailing-lists-project-description/26193/5.json"
+    json: "https://forum.fairphone.com/t/angel-the-fairphone-angels-program-local-support-by-community-members/33058.json"
   - data: event
     cache: true
     json: "https://forum.fairphone.com/t/star-save-the-date-european-fairphoners-community-trip-to-amsterdam-2018-13-8-19-8-2018/32940.json"
