@@ -34,10 +34,9 @@ jekyll_get:
   - data: angels
     cache: true
     json: "https://forum.fairphone.com/t/angel-the-fairphone-angels-program-local-support-by-community-members/33058.json"
-  - data: event
+  - data: efct
     cache: true
     json: "https://forum.fairphone.com/t/star-save-the-date-european-fairphoners-community-trip-to-amsterdam-2018-13-8-19-8-2018/32940.json"
-
   - data: synapse
     cache: true
     json: "https://forum.fairphone.com/t/synapse-inspired-by-fairphone-movement/31607.json"
