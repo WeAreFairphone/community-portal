@@ -1,6 +1,6 @@
 # WeAreFairphone community landing page
 
-A [Jekyll](http://jekyllrb.com/)-based static site for informing about
+A [Jekyll](http://jekyllrb.com/)-based static site used to inform the public of
 [WeAreFairphone community](https://www.fairphone.com/en/community/) activities.
 
 Features are discussed [on the Fairphone forum thread](https://forum.fairphone.com/t/online-portal-for-fairphone-community/28956/).
