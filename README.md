@@ -13,7 +13,7 @@ First, make sure, you have
 
 Then run `bundle install` and you are ready to start.
 
-\* *Ruby 2.5 does not work.*
+\* *Ruby 2.5 is not currently supported.*
 
 ## Usage
 
