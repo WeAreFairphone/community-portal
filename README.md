@@ -1,6 +1,6 @@
 # WeAreFairphone community landing page
 
-A [Jekyll](http://jekyllrb.com/)-based static site for informing about
+A [Jekyll](http://jekyllrb.com/)-based static site used to inform the public of
 [WeAreFairphone community](https://www.fairphone.com/en/community/) activities.
 
 Features are discussed [on the Fairphone forum thread](https://forum.fairphone.com/t/online-portal-for-fairphone-community/28956/).
@@ -13,7 +13,7 @@ First, make sure, you have
 
 Then run `bundle install` and you are ready to start.
 
-\* *Ruby 2.5 does not work.*
+\* *Ruby 2.5 is not currently supported.*
 
 ## Usage
 
