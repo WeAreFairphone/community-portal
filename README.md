@@ -51,21 +51,6 @@ theme, drop them in the same place and start modifying them.
 The idea could be to publish an own theme, once there is a stable version.
 This would likely move into its own repo and added as dependency here.
 
-## TODO
-
-* [ ] Think about recommending [rvm](https://rvm.io/) in installation instructions.
-* [ ] Explore [discourse_api](https://github.com/discourse/discourse_api). (See [forum post](https://meta.discourse.org/t/discourse-plugin-for-static-site-generators-like-jekyll-or-octopress/7965))
-* [ ] Think about [publishing on GitHub Pages](https://help.github.com/articles/about-supported-custom-domains/).
-      According to docs there is [a whitelist of plugins](https://help.github.com/articles/configuring-jekyll-plugins/#default-plugins) which could make this approach hard.
-* [ ] Pull data for [community events](https://www.fairphone.com/en/community/events/?event-category=community-event) from the page.
-* [x] Embed [communitymap](https://forum.fairphone.com/tags/communitymap)
-* [ ] Align with [duke1102/FairphoneAngel-LandingPage](https://github.com/duke1102/FairphoneAngel-LandingPage) about design.
-* [ ] Look into [WeAreFairphone/Community_identity](https://github.com/WeAreFairphone/Community_identity) for design.
-* [ ] Get inspiration from [mozilla/activate.mozilla.community](https://github.com/mozilla/activate.mozilla.community) or [learning.mozilla.org](https://learning.mozilla.org/).
-* [x] Investigate nested file structure (see [Sitemap](http://localhost:4000/sitemap/))
-* [ ] Think about how best to lay out navigation (breadcrumbs? See [Brad Frost](http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/))
-* [ ] Fix navigation (look into former implementation)
-
 ## License
 
 GPL 3.0. See [license](./LICENSE).
