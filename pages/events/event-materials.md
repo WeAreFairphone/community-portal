@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title:  pages.event-materials.title
 further_reading: event
 ---
